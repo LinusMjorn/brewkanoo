@@ -1,1 +1,3 @@
-# brewkanoo
+# BrewKanoo - your homebrew app
+
+
